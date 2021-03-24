@@ -21,7 +21,7 @@ I’m a not yet a Web Developer 👨‍💻 but I am trying since 2021 🚀
 <br/>  
 
 
-## Rapidfire  
+## Now 
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on PROJECTS 📝  
