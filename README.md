@@ -27,7 +27,7 @@ I’m a not yet a Web Developer 👨‍💻 but I am trying since 2021 🚀
 - 🔭 I’m currently working on PROJECTS 📝  
   
 
-- 🌱 I’m currently learning React 🧭  
+- 🌱 I’m currently learning everything 🧭  
   
 
 - ❓ Ask me about anything related to JavaScript or CSS  
