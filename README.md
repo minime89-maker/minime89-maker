@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://user-images.githubusercontent.com/77694499/121091249-ff54ff80-c7e9-11eb-9098-2f14a2b47034.png" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">👋 Hi, I'm Minja, Developer and Optimist for Life 👨‍💻 🚀</div>  
+# <div align="left"> Hey, I'm Minja, Full Stack Web Developer ✌️ </div>  
   
 
 - 🤩 I'm currently working on something really cool
