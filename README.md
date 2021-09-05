@@ -40,13 +40,10 @@
   
 <br/>  
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=minime89-maker&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Github Stats 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=minime89-maker&theme=dark)](https://www.linkedin.com/in/milijan-popovic/)
 
-<br/>  
+<br />
 
-<div align="center">
 <img src="https://komarev.com/ghpvc/?username=minime89-maker&&style=flat-square" align="center" />
-</div>  
-
 <br />
