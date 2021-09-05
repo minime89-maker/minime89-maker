@@ -1,4 +1,4 @@
-# <div align="left"> Hey, I'm Minja, Full Stack Web Developer ✌️ </div>  
+# <div align="left"> Hey, I'm Minja, Frontend Developer ✌️ </div>  
   
 
 - 🤩 I'm currently working on something really cool
