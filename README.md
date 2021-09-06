@@ -1,49 +1,45 @@
-# <div align="left"> Hey, I'm Minja, Frontend Developer ✌️ </div>  
-  
+<img src="https://64.media.tumblr.com/3fdff99a61a802c46804f672d736d122/tumblr_p49et2Yaxm1vl7b4bo7_500.gif" height="400px" width="100%" />
 
-- 🤩 I'm currently working on something really cool
+# Hi, Dr. Nick <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🧐 I like to explore new technologies 
+</h1>
 
-- 📪 You can reach me:  <a href = "mailto: milijan.popovic@gmail.com">@milijan.popovic</a> !
-  
-<br/>  
+### My name is Minja and I'm a Web Developer. I'm from 🇧🇦 , living in 🇩🇪 | Open Road Fan 🏍
 
-## My Skill Set  
-<div align="left">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /> 
-<img style="margin: 10px" src="https://miro.medium.com/max/632/1*KTAstxDm8yEG17u94avrXw.png" alt="Tailwind CSS" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /> 
-</div>  
+![](https://img.shields.io/badge/milijan_popovic-informational?style=flat&logo=linkedin&logoColor=white&color=blue)
+![](https://img.shields.io/badge/minja_ppp-informational?style=flat&logo=twitter&logoColor=white&color=informational)
+![](https://img.shields.io/badge/milijan.popovic@web.de-informational?style=flat&logo=gmail&logoColor=white&color=red)
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife&style=flat&logoColor=white&color=informational)
+<br/>
+<br/>
 
-<br/>  
+# Things I like to use in my work :
 
-## Connect with me  
-<div align="left">
-<a href="https://www.linkedin.com/in/milijan-popovic/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-<a href="https://twitter.com/minja_ppp" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-</div>  
-  
-<br/>  
-
-## Github Stats 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=minime89-maker&theme=dark)](https://www.linkedin.com/in/milijan-popovic/)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=red)
+![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=figma&logoColor=white&color=red)
+![](https://img.shields.io/badge/Tool-AdobeXD-informational?style=flat&logo=adobexd&logoColor=white&color=red)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=nodejs&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=success)
+![](https://img.shields.io/badge/Tool-Storybook-informational?style=flat&logo=storybook&logoColor=white&color=red)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=minime89-maker&&style=flat-square" align="center" />
+# I spend a lot of time on:
+
+<div style="display:flex" align="center">
+
+<img src="https://c.tenor.com/zERwJRNREmMAAAAC/motorcycle-riding.gif" height="195px" width="460px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=minime89-maker&theme=dark" />
+
+</div>
 <br />
+
+# Quotes
+> Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. - Albert Einstein
