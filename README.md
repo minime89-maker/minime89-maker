@@ -6,7 +6,7 @@
 
 ### My name is Minja and I'm a Web Developer. I'm from 🇧🇦 , living in 🇩🇪 | Open Road Fan 🏍
 
-![](https://img.shields.io/badge/milijan_popovic-informational?url=https://www.linkedin.com/in/milijan-popovic/&style=flat&logo=linkedin&logoColor=white&color=blue)
+![](https://img.shields.io/badge/milijan_popovic-informational?link=https://www.linkedin.com/in/milijan-popovic/style=flat&logo=linkedin&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/minja_ppp-informational?style=flat&logo=twitter&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/milijan.popovic@web.de-informational?style=flat&logo=gmail&logoColor=white&color=red)
 ![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife&style=flat&logoColor=white&color=informational)
