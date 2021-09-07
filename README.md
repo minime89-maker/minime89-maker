@@ -8,7 +8,7 @@
   
 ![](https://img.shields.io/badge/milijan_popovic-informational?link=https://www.linkedin.com/in/milijan-popovic&style=flat&logo=linkedin&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/minja_ppp-informational?link=https://twitter.com/minja_ppp&style=flat&logo=twitter&logoColor=white&color=informational)
-![](https://img.shields.io/badge/milijan.popovic@web.de-informational?link=milijan.popovic@web.de&style=flat&logo=gmail&logoColor=white&color=red)
+![](https://img.shields.io/badge/milijan.popovic@web.de-informational?style=flat&logo=gmail&logoColor=white&color=red)
 ![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife&style=flat&logoColor=white&color=informational)
 <br/>
 <br/>
