@@ -2,9 +2,7 @@
 
 # Hi, Dr. Nick <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-</h1>
-
-### My name is Minja and I'm a Web Developer. I'm from 🇧🇦 , living in 🇩🇪 | Open Road Fan 🏍
+#### Minja here and I'm a Web Developer. I'm from 🇧🇦 , living in 🇩🇪 | Open Road Fan 🏍
   
 ![](https://img.shields.io/badge/milijan_popovic-informational?link=https://www.linkedin.com/in/milijan-popovic&style=flat&logo=linkedin&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/minja_ppp-informational?link=https://twitter.com/minja_ppp&style=flat&logo=twitter&logoColor=white&color=informational)
@@ -13,7 +11,7 @@
 <br/>
 <br/>
 
-# Things I like to use in my work :
+## Things I like to use in my work :
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=blue)
@@ -28,10 +26,10 @@
 ![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Tool-Storybook-informational?style=flat&logo=storybook&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
-
+<br />
 <br />
 
-# I spend a lot of time on:
+## I spend a lot of time on:
 
 <div style="display:flex" align="center">
 
