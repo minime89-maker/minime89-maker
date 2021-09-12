@@ -33,7 +33,7 @@
 
 <div style="display:flex; flex-wrap:wrap">
 
-<img src="https://c.tenor.com/zERwJRNREmMAAAAC/motorcycle-riding.gif" height="195px" width="440px" />
+<img src="https://c.tenor.com/zERwJRNREmMAAAAC/motorcycle-riding.gif" height="195px" width="425px" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=minime89-maker&theme=dark" />
 
 </div>
