@@ -31,7 +31,7 @@
 
 ## I spend a lot of time on:
 
-<div style="display:flex; flex-wrap:wrap">
+<div style="display:flex; flex-wrap:wrap" align="center">
 
 <img src="https://c.tenor.com/zERwJRNREmMAAAAC/motorcycle-riding.gif" height="195px" width="300px" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=minime89-maker&theme=dark" />
