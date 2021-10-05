@@ -1,8 +1,7 @@
 <img src="https://64.media.tumblr.com/3fdff99a61a802c46804f672d736d122/tumblr_p49et2Yaxm1vl7b4bo7_500.gif" height="400px" width="100%" />
 
-# Hi, Dr. Nick <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-#### Minja here and I'm a Frontend Developer. I'm from 🇧🇦 , living in 🇩🇪 | Open Road Fan 🏍
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Minja, a Web Developer. From 🇧🇦 , curently living in 🇩🇪. Beside's programming I enjoy riding motorcycle 🏍
   
 ![](https://img.shields.io/badge/milijan_popovic-informational?link=https://www.linkedin.com/in/milijan-popovic&style=flat&logo=linkedin&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/minja_ppp-informational?link=https://twitter.com/minja_ppp&style=flat&logo=twitter&logoColor=white&color=informational)
@@ -26,6 +25,7 @@
 ![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Tool-Storybook-informational?style=flat&logo=storybook&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Nextjs-informational?style=flat&logo=Next.js&logoColor=white&color=blue)
 <br />
 <br />
 
