@@ -10,7 +10,7 @@
 
   <p>Hi, I'm Minja, Fullstack Developer from Konstanz, Germany.</p>
   
-  <a href="https://wangchujiang.com/">
+  <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=minime89-maker&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&count_private=true&hide_title=true&hide_border=true&hide=contribs,issues" />
   </a>
 </div>
